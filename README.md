@@ -1,2 +1,2 @@
 # sedricbenson.github.io
-Static wordpress repository for my personal website. 
+Static wordpress repository for my personal website.
